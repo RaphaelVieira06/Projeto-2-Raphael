@@ -13,7 +13,6 @@ Projeto acadêmico de desenvolvimento web com Frontend e Backend em Node.js, exe
 4. Execute `npm start`.
 5. Acesse `http://localhost:2000`.
 
-Não é necessário instalar dependências externas.
 
 ## Funcionalidades
 - Página inicial e navegação responsiva.
@@ -38,18 +37,5 @@ fatec-zona-sul-portal/
 ├── server.js
 └── README.md
 ```
-
-## Antes de entregar
-- Confira os integrantes em `public/quem-somos.html` e substitua os campos de exemplo.
-- Atualize a agenda de eventos com dados oficiais da unidade.
-- Confira o edital vigente do Vestibular.
-- Teste todos os links e páginas.
-- Publique o projeto em um repositório GitHub e envie o link solicitado pelo professor.
-
-## Fontes institucionais consultadas
-- https://www.cps.sp.gov.br/fatecs/fatec-zona-sul-dom-paulo-evaristo-arns/
-- https://vestibular.fatec.sp.gov.br/unidades-cursos/escola.asp?c=166
-- https://www.fateczonasul.edu.br/
-- https://www.cps.sp.gov.br/cursos-fatec/
 
 **Observação:** projeto acadêmico independente, sem vínculo oficial com o Centro Paula Souza. Conteúdos de agenda são exemplos demonstrativos; prazos de vestibular devem ser confirmados no edital vigente.
